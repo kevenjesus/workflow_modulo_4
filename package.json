@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Henryckgraw/workflow_modulo_4#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-cssmin": "^0.2.0",
     "gulp-htmlmin": "^3.0.0",
     "gulp-sass": "^3.1.0"
